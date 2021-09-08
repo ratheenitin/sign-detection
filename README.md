@@ -1,0 +1,1 @@
+The project detects Forged Signatures from the set of Genuine Signatures. It finds use at a number of places where signature verification is needed.
